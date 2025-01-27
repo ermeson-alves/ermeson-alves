@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💡 I am passionate about computing, currently focused on developing code for computer vision in medical images, web systems and creating data pipelines for a legal document search tool that relies on serverless architecture.<br>📚 I am currently learning Applied Computational Intelligence, Distributed Systems and Cloud Computing.<br>🎯 Goals: Develop technologies in the field of biomedical engineering to positively impact people with my knowledge, bring a better quality of life to my family and learn more and more every day about computer engineering.<br>🎲 Fun fact: I believe in the curse of deploying on Friday, I don't like pie dough and I talk to myself.</p>
+<p align="left">💡 I am passionate about computing, currently focused on developing code for computer vision in medical images, web systems and creating data pipelines for a legal document search tool that relies on serverless architecture.<br>📚 I am currently learning Applied Computational Intelligence, Distributed Systems and Cloud Computing.<br>🎯 Goals: Develop technologies in the field of biomedical engineering to positively impact people with my knowledge, bring a better quality of life to my family and learn more and more every day about computer engineering.<br>🎲 Fun fact: I believe in the curse of app deploying on Friday, I don't like pie dough and I talk to myself.</p>
 
 ###
 
